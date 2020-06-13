@@ -4,7 +4,7 @@ welcome to Cloud-Task 1
 <pre>
 <?php
 
-print 'ipconfig';
+print 'ifconfig';
 
 ?>
 </pre>
