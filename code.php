@@ -1,10 +1,10 @@
 welcome to Cloud-Task 1
-<br/>
+<br />
 
 <pre>
-<?php>
+<?php
 
-print 'ipconfig' ;
+print 'ipconfig';
 
 ?>
 </pre>
